@@ -1,2 +1,3 @@
 # Jogo-Mario-Jump
-Meu primeiro jogo-Mario-Jump, utilizando apenas html, css e javaScript.
+Em mais uma etapa de estudos como desenvolvedora, hoje aprendi a progamar um jogo simples,  utilizando apenas html, css e javaScript.
+Neste jogo, é possivel pular obstáculos. o jogo termina quando você colide com algum obstáculo.
